@@ -1,0 +1,4 @@
+{
+    "vscode-w3cvalidation.trace.server": "verbose",
+    "webvalidator.validateOnSave": false
+}

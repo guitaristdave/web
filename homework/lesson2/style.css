@@ -1,0 +1,107 @@
+body {
+    font-family: Helvetica, Arial, serif;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    display: block;
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 15px;
+    
+    text-align: center;
+}
+
+.me, .work {
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 700px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(83, 0, 218);
+    font-weight: bold;
+}
+
+.pic-me {
+    background-image: url(./img/David.png);
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    border-radius: 100px;
+    margin-bottom: 30px;  
+}
+
+.pic-work {
+    background-image: url(https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/09/hire-qa-engineer.png);
+    width: 700px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+
+.naming {
+    background-color: rgb(162, 162, 162);
+    margin-left: auto;
+    margin-right: auto;
+    width: 364px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.vidos {
+    margin: 10px;
+    font-size: 20px;
+    width: 700px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+.num-list, .ul-list {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+}
