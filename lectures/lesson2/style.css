@@ -1,0 +1,57 @@
+.pic
+{
+    width: 15%;
+    height: 15%;
+}
+
+a
+{
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover
+{
+    color: red;
+}
+
+ul
+{
+    padding-left:  20px;
+}
+
+p
+{
+    color: black;
+}
+
+h1
+{
+    color: black;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px white;
+}
+img
+{
+    display: block;
+    margin: 0 auto;
+}
+
+body
+{
+    font-family: helvetica, arial, serif;
+    background-color: rgb(189, 189, 189);
+    padding: 20px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 2px solid white;
+}
+
+.cont
+{
+    display: block;
+    margin: 0 auto;
+}
